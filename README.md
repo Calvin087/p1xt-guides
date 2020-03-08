@@ -78,8 +78,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |X           | Yay!
-| [Intro to HTML/CSS: Making webpage s](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |-           |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
+| [Intro to HTML/CSS: Making webpage s](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |X           | Yay!
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |-           |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |

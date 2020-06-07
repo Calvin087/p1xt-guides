@@ -91,15 +91,15 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
+| Welcome To Coding                                                                                                                                                     |X           |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |X           |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |X           |              |
+| Full Stack Online - Ruby                                                                                                                                              |X           |              |
+| Full Stack Online - SQL                                                                                                                                               |X           |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
+| Full Stack Online - JavaScript                                                                                                                                        |X           |              |
+| Full Stack Online - React                                                                                                                                             |X           |[LockDown App](https://lockdown-decision.web.app/)|
+| Full Stack Online - Full Stack Project                                                                                                                                |x           |[CRUD app](https://expensis-app.web.app/)|
 | Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
 | Full Stack Online - Docker                                                                                                                                            |            |              |

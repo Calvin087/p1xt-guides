@@ -97,13 +97,6 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |X           |              |
 | Full Stack Online - Ruby                                                                                                                                              |X           |              |
 | Full Stack Online - SQL                                                                                                                                               |X           |              |
-=======
-| Welcome To Coding                                                                                                                                                     | In progress            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
->>>>>>> 9a2a955e8d070dac2bd713ea6c2ffdd043ee445f
 | Full Stack Online - Rails                                                                                                                                             |            |              |
 | Full Stack Online - JavaScript                                                                                                                                        |X           |              |
 | Full Stack Online - React                                                                                                                                             |X           |[LockDown App](https://lockdown-decision.web.app/)|

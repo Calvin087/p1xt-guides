@@ -80,8 +80,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |X           | Yay!
 | [Intro to HTML/CSS: Making webpage s](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |X           | Yay!
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |X           | Yay!
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |X           | Almost There!
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |X           | Finished!
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
@@ -91,11 +91,19 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+<<<<<<< HEAD
 | Welcome To Coding                                                                                                                                                     |X           |              |
 | Full Stack Online - Intro to Programming                                                                                                                              |X           |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |X           |              |
 | Full Stack Online - Ruby                                                                                                                                              |X           |              |
 | Full Stack Online - SQL                                                                                                                                               |X           |              |
+=======
+| Welcome To Coding                                                                                                                                                     | In progress            |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
+| Full Stack Online - Ruby                                                                                                                                              |            |              |
+| Full Stack Online - SQL                                                                                                                                               |            |              |
+>>>>>>> 9a2a955e8d070dac2bd713ea6c2ffdd043ee445f
 | Full Stack Online - Rails                                                                                                                                             |            |              |
 | Full Stack Online - JavaScript                                                                                                                                        |X           |              |
 | Full Stack Online - React                                                                                                                                             |X           |[LockDown App](https://lockdown-decision.web.app/)|

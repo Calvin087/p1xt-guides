@@ -100,7 +100,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - JavaScript                                                                                                                                        |X           |              |
 | Full Stack Online - React                                                                                                                                             |X           |[LockDown App](https://lockdown-decision.web.app/)|
 | Full Stack Online - Full Stack Project                                                                                                                                |x           |[CRUD app](https://expensis-app.web.app/)|
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |-           |              |
 | Full Stack Online - Job Search                                                                                                                                        |            |              |
 | Full Stack Online - Docker                                                                                                                                            |            |              |
 | Full Stack Online - GraphQl                                                                                                                                           |            |              |
